@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRUZKa1/GZmoTzLO5o776PHQ81lXSOrx/v9M1n6ppf45gF0Lrgzb0U9YtDU4vEWciaIG6ebfdDyrn9C6O/Pk2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pokel\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP\\DiscordDupeAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pokel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pokel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pokel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pokel\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pokel\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
