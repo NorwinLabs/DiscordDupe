@@ -6,7 +6,6 @@ C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeAPP\DiscordDupeAPP\obj\Debug\
 C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeAPP\DiscordDupeAPP\obj\Debug\netstandard2.0\DiscordDupeAPP.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeAPP\DiscordDupeAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeAPP\DiscordDupeAPP\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeAPP\DiscordDupeAPP\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeAPP\DiscordDupeAPP\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
 C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeAPP\DiscordDupeAPP\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
 C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeAPP\DiscordDupeAPP\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
