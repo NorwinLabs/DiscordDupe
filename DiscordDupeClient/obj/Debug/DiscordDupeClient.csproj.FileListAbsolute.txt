@@ -1,0 +1,11 @@
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\obj\Debug\DiscordDupeClient.csproj.AssemblyReference.cache
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\obj\Debug\DiscordDupeClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\obj\Debug\DiscordDupeClient.Properties.Resources.resources
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\obj\Debug\DiscordDupeClient.csproj.GenerateResource.cache
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\obj\Debug\DiscordDupeClient.csproj.CoreCompileInputs.cache
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\bin\Debug\DiscordDupeClient.exe.config
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\bin\Debug\DiscordDupeClient.exe
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\bin\Debug\DiscordDupeClient.pdb
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\obj\Debug\DiscordDupeClient.exe
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeClient\obj\Debug\DiscordDupeClient.pdb

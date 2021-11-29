@@ -1,0 +1,14 @@
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.exe
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.deps.json
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.runtimeconfig.json
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.runtimeconfig.dev.json
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.dll
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.pdb
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.csproj.AssemblyReference.cache
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.AssemblyInfoInputs.cache
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.AssemblyInfo.cs
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.csproj.CoreCompileInputs.cache
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.dll
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.pdb
+C:\Users\pokel\source\repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.genruntimeconfig.cache
