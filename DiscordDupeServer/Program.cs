@@ -1,4 +1,17 @@
-﻿using System;
+﻿/***
+ *      _____  _                       _ _____                   
+ *     |  __ \(_)                     | |  __ \                  
+ *     | |  | |_ ___  ___ ___  _ __ __| | |  | |_   _ _ __   ___ 
+ *     | |  | | / __|/ __/ _ \| '__/ _` | |  | | | | | '_ \ / _ \
+ *     | |__| | \__ \ (_| (_) | | | (_| | |__| | |_| | |_) |  __/
+ *     |_____/|_|___/\___\___/|_|  \__,_|_____/ \__,_| .__/ \___|
+ *                                                   | |         
+ *                                                   |_|         
+ *      DEVELOPED BY Gavin Norwood and Bryce Yeatts
+ *      github.com/gavthewood
+ */
+
+using System;
 using System.Threading;
 using System.Net.Sockets;
 using System.Text;
@@ -12,7 +25,7 @@ namespace ConsoleApplication1
     {
 
         public static Hashtable clientsList = new Hashtable();
-
+        
         static void Main(string[] args)
 
         {
@@ -23,7 +36,7 @@ namespace ConsoleApplication1
 
             serverSocket.Start();
 
-            Console.WriteLine("Chat Server Started ....");
+            Console.WriteLine("CONNECTED TO SERVER");
 
             counter = 0;
 
@@ -91,8 +104,8 @@ namespace ConsoleApplication1
     }//end Main class
 
     public class handleClinet
-
     {
+        public Thread ctThread = null;
         TcpClient clientSocket;
         string clNo;
         Hashtable clientsList;
@@ -101,7 +114,7 @@ namespace ConsoleApplication1
             this.clientSocket = inClientSocket;
             this.clNo = clineNo;
             this.clientsList = cList;
-            Thread ctThread = new Thread(doChat);
+            ctThread = new Thread(doChat);
             ctThread.Start();
         }
 
@@ -116,7 +129,7 @@ namespace ConsoleApplication1
             requestCount = 0;
 
             while ((true))
-            {
+            {              
                 try
                 {
                     requestCount = requestCount + 1;
@@ -126,14 +139,17 @@ namespace ConsoleApplication1
                     dataFromClient = dataFromClient.Substring(0, dataFromClient.IndexOf("$"));
                     Console.WriteLine("From client - " + clNo + " : " + dataFromClient);
                     rCount = Convert.ToString(requestCount);
-
                     Program.broadcast(dataFromClient, clNo, true);
-
-                }
-
+                }        
                 catch (Exception ex)
                 {
                     Console.WriteLine(ex.ToString());
+                }
+                
+                if (dataFromClient.IndexOf("disconnected") > -1)
+                {
+                    clientsList.Remove(clNo);
+                    break;
                 }
             }//end while
         }//end doChat

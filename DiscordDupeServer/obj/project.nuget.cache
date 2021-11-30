@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7TrwRYBgrk6pod5TFC4/v3gnLTrkt+6rY8c8/vg79kpsZ7wyo8tTNAJt7i46m93XAbyUS8FPp0WTwwjFnK4yMQ==",
+  "dgSpecHash": "umK9oAipQzt6k+FkP9TpGps7/JQMS1O2hTHVsnveV5lJH/3WCHyOYdCMefBi4ga/elEH7oLN0hFNi3dwq7R2Dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bryce\\OneDrive\\Documents\\GitHub\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pokel\\source\\repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pokel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\pokel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\pokel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pokel\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

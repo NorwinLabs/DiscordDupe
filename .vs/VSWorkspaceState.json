@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DiscordDupeClient"
   ],
-  "SelectedNode": "\\DiscordDupeAPP.sln",
+  "SelectedNode": "\\DiscordDupeClient\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

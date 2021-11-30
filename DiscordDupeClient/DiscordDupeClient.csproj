@@ -81,7 +81,11 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="Pictures\cyka.jpg" />
     <Content Include="Pictures\DupeIcon.ico" />
+    <Content Include="Pictures\H80mcI.jpg" />
+    <Content Include="Pictures\han.jpg" />
+    <Content Include="Pictures\our-discord.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
