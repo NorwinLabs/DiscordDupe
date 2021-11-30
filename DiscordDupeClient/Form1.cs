@@ -20,7 +20,7 @@ namespace WindowsApplication2
 
         private void sendButton_Click_1(object sender, EventArgs e)
         {
-            byte[] outStream = System.Text.Encoding.ASCII.GetBytes(nameTextBox.Text + "$");
+            byte[] outStream = System.Text.Encoding.ASCII.GetBytes(messageTextBox.Text + "$");
             serverStream.Write(outStream, 0, outStream.Length);
             serverStream.Flush();
         }
@@ -33,7 +33,7 @@ namespace WindowsApplication2
             clientSocket.Connect("127.0.0.1", 8888);
             serverStream = clientSocket.GetStream();
 
-            byte[] outStream = System.Text.Encoding.ASCII.GetBytes(messageTextBox.Text + "$");
+            byte[] outStream = System.Text.Encoding.ASCII.GetBytes(nameTextBox.Text + "$");
             serverStream.Write(outStream, 0, outStream.Length);
             serverStream.Flush();
 
@@ -48,6 +48,7 @@ namespace WindowsApplication2
                 serverStream = clientSocket.GetStream();
                 int buffSize = 0;
                 byte[] inStream = new byte[10025];
+                clientSocket.ReceiveBufferSize = 8192;
                 buffSize = clientSocket.ReceiveBufferSize;
 
                 serverStream.Read(inStream, 0, buffSize);
