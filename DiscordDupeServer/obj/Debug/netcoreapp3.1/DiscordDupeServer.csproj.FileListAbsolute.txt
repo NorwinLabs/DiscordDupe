@@ -26,3 +26,17 @@ C:\Users\Bryce\OneDrive\Documents\GitHub\DiscordDupe\DiscordDupeServer\obj\Debug
 C:\Users\Bryce\OneDrive\Documents\GitHub\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.dll
 C:\Users\Bryce\OneDrive\Documents\GitHub\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.pdb
 C:\Users\Bryce\OneDrive\Documents\GitHub\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.genruntimeconfig.cache
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.exe
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.deps.json
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.runtimeconfig.json
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.runtimeconfig.dev.json
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.dll
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\bin\Debug\netcoreapp3.1\DiscordDupeServer.pdb
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.csproj.AssemblyReference.cache
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.AssemblyInfoInputs.cache
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.AssemblyInfo.cs
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.csproj.CoreCompileInputs.cache
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.dll
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.pdb
+C:\Users\MichaelPC\Source\Repos\DiscordDupe\DiscordDupeServer\obj\Debug\netcoreapp3.1\DiscordDupeServer.genruntimeconfig.cache

@@ -55,8 +55,16 @@ namespace ConsoleApplication1
                 dataFromClient = dataFromClient.Substring(0, dataFromClient.IndexOf("$"));
 
                 clientsList.Add(dataFromClient, clientSocket);
+                string clientNames = ""; 
+                foreach(DictionaryEntry Item in clientsList)
+                {
+
+                    clientNames += Item.Key + " ";
+                }
 
                 broadcast(dataFromClient + " Joined ", dataFromClient, false);
+                Thread.Sleep(5);
+                broadcast("Online: " + clientNames, dataFromClient, false);
 
                 Console.WriteLine(dataFromClient + " Joined chat room ");
 

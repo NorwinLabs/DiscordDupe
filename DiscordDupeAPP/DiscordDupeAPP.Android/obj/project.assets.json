@@ -3172,21 +3172,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pokel\\.nuget\\packages\\": {}
+    "C:\\Users\\MichaelPC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pokel\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP.Android\\DiscordDupeAPP.Android.csproj",
+      "projectUniqueName": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP.Android\\DiscordDupeAPP.Android.csproj",
       "projectName": "DiscordDupeAPP.Android",
-      "projectPath": "C:\\Users\\pokel\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP.Android\\DiscordDupeAPP.Android.csproj",
-      "packagesPath": "C:\\Users\\pokel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pokel\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP.Android\\obj\\",
+      "projectPath": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP.Android\\DiscordDupeAPP.Android.csproj",
+      "packagesPath": "C:\\Users\\MichaelPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\pokel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\MichaelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid12.0"
@@ -3198,8 +3203,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\pokel\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP\\DiscordDupeAPP.csproj": {
-              "projectPath": "C:\\Users\\pokel\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP\\DiscordDupeAPP.csproj"
+            "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP\\DiscordDupeAPP.csproj": {
+              "projectPath": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP\\DiscordDupeAPP.csproj"
             }
           }
         }
