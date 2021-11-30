@@ -3,6 +3,9 @@ using System.Windows.Forms;
 using System.Text;
 using System.Net.Sockets;
 using System.Threading;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Windows.Threading;
 
 namespace WindowsApplication2
 {
@@ -14,10 +17,13 @@ namespace WindowsApplication2
         NetworkStream serverStream = default(NetworkStream);
         string readData = null;
         string ipHost = null;
+        BindingList<String> online = new BindingList<string>();
+        
 
         public Form1()
         {
             InitializeComponent();
+            ShowOnline();
         }
 
         private void sendButton_Click_1(object sender, EventArgs e)
@@ -41,6 +47,26 @@ namespace WindowsApplication2
                 serverStream.Read(inStream, 0, buffSize);
                 string returndata = System.Text.Encoding.ASCII.GetString(inStream);
                 readData = "" + returndata;
+
+                if(returndata.IndexOf("Joined") > -1)
+                {
+                    string[] split = returndata.Split(' ');
+                    string member = split[0];
+
+                    online.Add(member);
+                    this.Invoke(new Action(() => { online.ResetBindings(); }));
+
+                }
+                else if (returndata.IndexOf("disconnected") > -1)
+                {
+                    string[] split = returndata.Split(' ');
+                    string member = split[0];
+
+                    online.Remove(member);
+                    this.Invoke(new Action(() => { online.ResetBindings(); }));
+
+                }
+
                 msg();
             }
         }
@@ -69,6 +95,8 @@ namespace WindowsApplication2
         private void connectButton_Click(object sender, EventArgs e)
         {
             readData = "Connected to Chat Server ...";
+
+
             msg();
             ipHost = "127.0.0.1";
             clientSocket.Connect(ipHost, 8888);
@@ -128,6 +156,12 @@ namespace WindowsApplication2
                 serverStream.Flush();
                 messageTextBox.Clear();
             }
+        }
+
+        private void ShowOnline()
+        {
+
+            onlineListBox.DataSource = online;
         }
     }
 }
