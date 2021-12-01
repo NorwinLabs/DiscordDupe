@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gSRONn/vvqLM15ItLtssqHVU4HhbEkz3mdWLOJ1utV0krBYMZi9nwoXsOSFFD+3QR87ID3tIS+YjF0gQIB0rQ==",
+  "dgSpecHash": "J+AtXtNPB/URB9lEhCZYIRjaAqTmU9x5zHqcR9LXXCtnp6AZlbC6gGPFLEs0cX1PPM1llMENHkp2RNZyZTOhpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MichaelPC\\Source\\Repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
+  "projectFilePath": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

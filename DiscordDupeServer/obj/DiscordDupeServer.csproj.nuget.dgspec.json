@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MichaelPC\\Source\\Repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj": {}
+    "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MichaelPC\\Source\\Repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj": {
+    "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MichaelPC\\Source\\Repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
+        "projectUniqueName": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
         "projectName": "DiscordDupeServer",
-        "projectPath": "C:\\Users\\MichaelPC\\Source\\Repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
+        "projectPath": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
         "packagesPath": "C:\\Users\\MichaelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MichaelPC\\Source\\Repos\\DiscordDupe\\DiscordDupeServer\\obj\\",
+        "outputPath": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
