@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "rXlhiSSf6gJ8x0pAAXPxxrsQqZMClimxJ/st1IPwv4LdVbdHmk9P3vQgH12JlQtSuZOfFRsnvDfY3vZdgM6YFQ==",
+  "dgSpecHash": "yhkLRY0Pm27uq2PCYn1nyZ4seCTLlaAjYNuUmSardBJNona4hMQBZtBknx+bXNHeXcbD6K8Fs+6gHng6B7oGGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP\\DiscordDupeAPP.csproj",
+  "projectFilePath": "C:\\Users\\gnorw\\OneDrive\\Documents\\GitHubProjects\\DiscordDupe\\DiscordDupeAPP\\DiscordDupeAPP\\DiscordDupeAPP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MichaelPC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\MichaelPC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\MichaelPC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\MichaelPC\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\MichaelPC\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\gnorw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gnorw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\gnorw\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\gnorw\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\gnorw\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

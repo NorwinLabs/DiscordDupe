@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J+AtXtNPB/URB9lEhCZYIRjaAqTmU9x5zHqcR9LXXCtnp6AZlbC6gGPFLEs0cX1PPM1llMENHkp2RNZyZTOhpQ==",
+  "dgSpecHash": "nwMBEmIQnQop1dNnDvt5gd6rZWN62pcqi4MXewNu9Qw1XJ71AqpudPugjDav2fgDPy78SmwkuG0ZSkErxLbkhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MichaelPC\\source\\repos\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gnorw\\OneDrive\\Documents\\GitHubProjects\\DiscordDupe\\DiscordDupeServer\\DiscordDupeServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gnorw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
